@@ -1,0 +1,25 @@
+@font-face{
+    font-family: Abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+}
+
+@font-face{
+    font-family: Anton;
+    src: url(../fonts/Abel/Anton-Regular.ttf);
+}
+
+@font-face{
+    font-family: Josefin_Sans;
+    src: url(../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+}
+
+@font-face{
+    font-family: Redressed;
+    src: url(../fonts/Redressed/Redressed-Regular.ttf);
+}
+
+@font-face{
+    font-family: bowlby;
+    src: url(../fonts/Bowlby_One_SC/BowlbyOneSC-Regular.ttf);
+}
+
